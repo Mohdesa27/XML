@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+    <book>
+        <title>Introduction to XML</title>
+        <author>John Doe</author>
+        <publisher>Tech Books Publishing</publisher>
+        <year>2021</year>
+        <price currency="USD">29.99</price>
+    </book>
+    <book>
+        <title>Advanced Java Programming</title>
+        <author>Jane Smith</author>
+        <publisher>Java Publishing House</publisher>
+        <year>2022</year>
+        <price currency="USD">39.99</price>
+    </book>
+</library>

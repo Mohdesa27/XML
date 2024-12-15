@@ -1,0 +1,15 @@
+<?XML version="1.0"?>
+<home>
+    <head>
+        <title>MY HOME PAGE</title>
+        <banner source="tobanner.gif"\>
+    </head>
+        <body>
+            <main.title>WELCOME TO MY HOME PAGE</main.title>
+            <rule./>
+            <text>
+                <para>SORRY,THIS PAGE IS STILL UNDER CONSTRUCTION</para>
+            </text>
+        </body>
+        <footer source="foot.gif"/>
+<home>
